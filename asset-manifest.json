@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/istamaa/static/css/main.5f5eb18d.css",
+    "main.js": "/istamaa/static/js/main.06133b3e.js",
+    "static/js/488.cba4bcee.chunk.js": "/istamaa/static/js/488.cba4bcee.chunk.js",
+    "index.html": "/istamaa/index.html",
+    "main.5f5eb18d.css.map": "/istamaa/static/css/main.5f5eb18d.css.map",
+    "main.06133b3e.js.map": "/istamaa/static/js/main.06133b3e.js.map",
+    "488.cba4bcee.chunk.js.map": "/istamaa/static/js/488.cba4bcee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f5eb18d.css",
+    "static/js/main.06133b3e.js"
+  ]
+}
