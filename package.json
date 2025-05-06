@@ -2,6 +2,7 @@
   "name": "istamaa",
   "version": "0.1.0",
   "private": true,
+  "homepage": " https://rguetib.github.io/istamaa",
   "dependencies": {
     "cra-template": "1.2.0",
     "nouislider": "^15.8.1",
@@ -14,7 +15,9 @@
     "start": "react-scripts start --host 0.0.0.0",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
